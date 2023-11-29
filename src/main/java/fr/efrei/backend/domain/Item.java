@@ -1,4 +1,4 @@
-package fr.efrei.server.domain;
+package fr.efrei.backend.domain;
 
 import jakarta.persistence.*;
 
